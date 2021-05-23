@@ -2,7 +2,7 @@
 **TMDB kullanılarak React yetkinliklerinin geliştirilmesi amaçlanmıştır.**
 
 
-<img src="https://github.com/fikretsefa/netflix-clone-turkey/blob/main/readme.png" width="500">
+<img src="https://github.com/fikretsefa/netflix-clone-turkey/blob/main/netflix.png" width="500">
 
 <br>
 <a target="_blank" href="https://netflix-clone-turkey.web.app/">Canlı Test</a>
