@@ -13,11 +13,6 @@ function App() {
   return (
     
     <div className="app">
-      {/* <div className="div">
-        <img className="red" src="https://api.fnkr.net/testimg/500x500/FF0000/FFF/?text=red" />
-        <img className="blue" src="https://api.fnkr.net/testimg/500x500/0000ff/FFF/?text=blue" />
-      </div> */}
-      {/* <div style={{background:'red',width:300,height:300}}   onClick={() => {}}></div> */}
       <Nav />
       <Banner />
       <Row 
